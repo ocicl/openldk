@@ -1,0 +1,9 @@
+* openldk
+
+A JIT Compiler and Runtime for Java in Common Lisp
+
+|---------+----------------------------------------|
+| source  | git:git@github.com:atgreen/openldk.git |
+| commit  | 045921f                                |
+| systems | openldk                                |
+|---------+----------------------------------------|
