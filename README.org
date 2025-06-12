@@ -4,6 +4,6 @@ A JIT Compiler and Runtime for Java in Common Lisp
 
 |---------+--------------------------------------------|
 | source  | git:https://github.com/atgreen/openldk.git |
-| commit  | 3152bbd                                    |
+| commit  | 2f449d2                                    |
 | systems | openldk                                    |
 |---------+--------------------------------------------|
